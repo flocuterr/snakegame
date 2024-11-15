@@ -2,3 +2,52 @@
 基于opencv的贪吃蛇游戏
 
 [注意]:运行程序时，只让一个手出现在摄像头范围内，不要把手停在一个位置，会GAMEOVER.
+
+
+环境：
+absl-py                   2.1.0                    pypi_0    pypi
+attrs                     24.2.0                   pypi_0    pypi
+bzip2                     1.0.8                h2466b09_7    conda-forge
+ca-certificates           2024.8.30            h56e8100_0    conda-forge
+cffi                      1.17.1                   pypi_0    pypi
+contourpy                 1.3.1                    pypi_0    pypi
+cvzone                    1.6.1                    pypi_0    pypi
+cycler                    0.12.1                   pypi_0    pypi
+flatbuffers               24.3.25                  pypi_0    pypi
+fonttools                 4.55.0                   pypi_0    pypi
+jax                       0.4.35                   pypi_0    pypi
+jaxlib                    0.4.35                   pypi_0    pypi
+kiwisolver                1.4.7                    pypi_0    pypi
+libffi                    3.4.2                h8ffe710_5    conda-forge
+libsqlite                 3.47.0               h2466b09_1    conda-forge
+libzlib                   1.3.1                h2466b09_2    conda-forge
+matplotlib                3.9.2                    pypi_0    pypi
+mediapipe                 0.10.18                  pypi_0    pypi
+ml-dtypes                 0.5.0                    pypi_0    pypi
+numpy                     1.26.4                   pypi_0    pypi
+opencv-contrib-python     4.10.0.84                pypi_0    pypi
+opencv-python             4.10.0.84                pypi_0    pypi
+openssl                   3.4.0                h2466b09_0    conda-forge
+opt-einsum                3.4.0                    pypi_0    pypi
+packaging                 24.2                     pypi_0    pypi
+pillow                    11.0.0                   pypi_0    pypi
+pip                       24.0               pyhd8ed1ab_0    conda-forge
+protobuf                  4.25.5                   pypi_0    pypi
+pycparser                 2.22                     pypi_0    pypi
+pyparsing                 3.2.0                    pypi_0    pypi
+python                    3.10.1          hcf16a7b_2_cpython    conda-forge
+python-dateutil           2.9.0.post0              pypi_0    pypi
+scipy                     1.14.1                   pypi_0    pypi
+sentencepiece             0.2.0                    pypi_0    pypi
+setuptools                69.0.3             pyhd8ed1ab_0    conda-forge
+six                       1.16.0                   pypi_0    pypi
+sounddevice               0.5.1                    pypi_0    pypi
+sqlite                    3.47.0               h2466b09_1    conda-forge
+tk                        8.6.13               h5226925_1    conda-forge
+tzdata                    2024b                hc8b5060_0    conda-forge
+ucrt                      10.0.22621.0         h57928b3_1    conda-forge
+vc                        14.3                h8a93ad2_22    conda-forge
+vc14_runtime              14.40.33810         hcc2c482_22    conda-forge
+vs2015_runtime            14.40.33810         h3bf8584_22    conda-forge
+wheel                     0.42.0             pyhd8ed1ab_0    conda-forge
+xz                        5.2.6                h8d14728_0    conda-forge
